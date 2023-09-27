@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/nicknochnack/nicknochnack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iarshguleria/iarshguleria/blob/output/github-contribution-grid-snake.svg)
 
 ###
