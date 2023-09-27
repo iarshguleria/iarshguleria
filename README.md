@@ -2,16 +2,18 @@
 
 ###
 
+### 📊 GitHub Stats:
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=iarshguleria&show_icons=true&count_private=true&hide_border=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iarshguleria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iarshguleria&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
 
 
 ###
-
+### 💻 Tech Stack:
 <div align="center" > 
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -29,7 +31,7 @@
 </div>
 
 ###
-
+### 🌐 Socials:
 <div align="center">
   <a href="https://github.com/iarshguleria" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -47,6 +49,14 @@
 
 ###
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iarshguleria&theme=chalk&no-frame=false&no-bg=true&margin-w=4" height="150" alt="languages graph"  />
+</div>
+
 <br clear="both">
 
 ###
+
+
+
